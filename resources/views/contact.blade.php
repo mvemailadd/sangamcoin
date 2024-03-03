@@ -17,7 +17,9 @@
                         <div class="address">
                             <i class="bi bi-geo-alt"></i>
                             <h4>Location:</h4>
-                            <p>Chennai, India, Tamil Nadu</p>
+                            <p>No:32/3, 1st Floor, Deivasigamani 1st Street,</p>
+                            <p>Subbarao Nagar, Choolaimedu,</p>
+                            <p>Chennai, India, Tamil Nadu - 600094</p>
                         </div>
 
                         <div class="email">
@@ -66,6 +68,16 @@
 
                 </div>
 
+            </div>
+            </br>
+
+            <div class="row contact-map" data-aos="fade-up">
+                <div class="col-12">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d242.90746158442101!2d80.21652971322179!3d13.066235611730864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526690ddd7b15d%3A0xf75b93604b5522c0!2sVinobaji%20St%20%26%20Deivasigamani%201st%20St%2C%20Kamarajar%20Nagar%2C%20MMDA%20Colony%2C%20Choolaimedu%2C%20Chennai%2C%20Tamil%20Nadu%20600106%2C%20India!5e0!3m2!1sen!2sus!4v1709121327272!5m2!1sen!2sus"
+                        width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
             </div>
 
         </div>
