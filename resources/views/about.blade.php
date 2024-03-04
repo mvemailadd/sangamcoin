@@ -24,10 +24,10 @@
                             collecting
                             not just as a hobby but as a means to bridge historical eras, preserving history for future
                             generations to cherish and learn from.</li>
-                        <li><i class="ri-check-double-line"></i> "<p>Every Coin, A Story Untold</b>" - Capturing the essence
-                                of
-                                discovery and curiosity, this motto suggests that every coin in a collection holds a unique
-                                story waiting to be discovered, from its origins to the hands it has passed through.
+                        <li><i class="ri-check-double-line"></i> "<b>Every Coin, A Story Untold</b>" - Capturing the essence
+                            of
+                            discovery and curiosity, this motto suggests that every coin in a collection holds a unique
+                            story waiting to be discovered, from its origins to the hands it has passed through.
                         </li>
                         <li><i class="ri-check-double-line"></i> "<b>From Metal to Memory, Collecting Lives On</b>" - the
                             transformation of simple metal into valuable memories and legacies, underscoring the lasting
@@ -55,7 +55,6 @@
                         items. Whether you’re looking for a rare coin from ancient Rome or a vintage stamp from the United
                         States, you can trust that our platform has the highest quality items available.
                     </p>
-                    <a href="#" class="btn-learn-more">Learn More</a>
                 </div>
             </div>
 

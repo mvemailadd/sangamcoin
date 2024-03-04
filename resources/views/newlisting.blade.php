@@ -25,7 +25,7 @@
                             <h5>Rare Chatrapati Shivaji Maharaj Ji Hyderabad Mint Extra Fine Condition 13</h5>
                             <div class="cta">
                                 <div class="cta-btn-container text-center">
-                                    <a class="cta-btn align-middle" href="/productdetails/sivaji-001">Details</a>
+                                    <a class="add-to-cart cta-btn align-middle" href="#">Add to Cart</a>
                                 </div>
                             </div>
                         </div>
@@ -46,7 +46,7 @@
                                 Games Collectible Coins of Republic India</h5>
                             <div class="cta">
                                 <div class="cta-btn-container text-center">
-                                    <a class="cta-btn align-middle" href="#">Add to Cart</a>
+                                    <a class="add-to-cart cta-btn align-middle" href="#">Add to Cart</a>
                                 </div>
                             </div>
                         </div>
@@ -66,7 +66,7 @@
                             <h5>Mahatma Gandhi’s Birth Collectible Coin of Republic India</h5>
                             <div class="cta">
                                 <div class="cta-btn-container text-center">
-                                    <a class="cta-btn align-middle" href="#">Add to Cart</a>
+                                    <a class="add-to-cart cta-btn align-middle" href="#">Add to Cart</a>
                                 </div>
                             </div>
                         </div>
@@ -86,7 +86,7 @@
                             <h5>20 Paise 1970 Food For ALL Copper Coin</h5>
                             <div class="cta">
                                 <div class="cta-btn-container text-center">
-                                    <a class="cta-btn align-middle" href="#">Add to Cart</a>
+                                    <a class="add-to-cart cta-btn align-middle" href="#">Add to Cart</a>
                                 </div>
                             </div>
                         </div>

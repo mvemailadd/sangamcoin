@@ -40,7 +40,7 @@
 
                 <div class="col-lg-8 mt-5 mt-lg-0" data-aos="fade-left">
 
-                    <form action="{{ route('contact.send') }}" method="post" role="form" class="php-email-form">
+                    <form action="#" method="post" role="form" class="php-email-form">
                         <div class="row">
                             <div class="col-md-6 form-group">
                                 @csrf
