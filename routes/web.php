@@ -25,10 +25,16 @@ Route::get('contact', function () {
     return view('contact');
 });
 
-Route::get('productdetails', function () {
-    return view('productdetails');
+Route::get('productdetails/{productid}', function ($productid) {
+    return view('productdetails', compact('productid'));
 });
 
-Route::get('productdetails1', function () {
-    return view('productdetails1');
+Route::get('newlisting', function () {
+    return view('newlisting');
 });
+
+Route::get('ancientcoins', function () {
+    return view('ancientcoins');
+});
+
+Route::post('/contactus', 'App\Http\Controllers\EmailController@sendContactUsEmail')->name('contact.send');

@@ -40,9 +40,10 @@
 
                 <div class="col-lg-8 mt-5 mt-lg-0" data-aos="fade-left">
 
-                    <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                    <form action="{{ route('contact.send') }}" method="post" role="form" class="php-email-form">
                         <div class="row">
                             <div class="col-md-6 form-group">
+                                @csrf
                                 <input type="text" name="name" class="form-control" id="name"
                                     placeholder="Your Name" required>
                             </div>

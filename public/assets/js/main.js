@@ -5,6 +5,7 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+let cartCounter = 0;
 (function() {
   "use strict";
 
@@ -90,6 +91,16 @@
     window.addEventListener('load', headerScrolled)
     onscroll(document, headerScrolled)
   }
+
+
+  on('click', '.add-to-cart', function(e) {
+    e.preventDefault()
+    console.log('Event trigered')
+    cartCounter += 1
+    document.getElementById('cartcount').innerHTML = cartCounter
+  }, true)
+
+
 
   /**
    * Back to top button

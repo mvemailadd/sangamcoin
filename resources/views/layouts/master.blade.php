@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="icon" href="assets/img/sangamcoins_fav.png">
+    <link rel="icon" href="/assets/img/sangamcoins_fav.png">
     <title>Sangam Coins | Home</title>
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -61,7 +61,6 @@
 
     <!-- Template Main JS File -->
     <script src="{{ asset('assets/js/main.js') }}"></script>
-    <script src="{{ asset('assets/js/jquery-3.2.1.slim.min.js') }}"></script>
 
 </body>
 
