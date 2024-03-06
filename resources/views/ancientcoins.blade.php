@@ -14,7 +14,7 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member aos-init aos-animate" data-aos="fade-up">
                         <div class="member-img">
-                            <a href="/productdetails/chandragupta-001"> <img src="/assets/img/chandragupta-001-f.jpg"
+                            <a href="/productdetails/chandragupta-001/jpg"> <img src="/assets/img/chandragupta-001-f.jpg"
                                     class="img-fluid" alt=""> </a>
                             <div class="social">
                                 <a href="/"><i class="bi bi-heart"></i></a>

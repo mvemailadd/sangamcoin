@@ -14,8 +14,8 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member aos-init aos-animate" data-aos="fade-up">
                         <div class="member-img">
-                            <a href="/productdetails/sivaji-001"> <img src="/assets/img/sivaji-001-f.webp" class="img-fluid"
-                                    alt=""> </a>
+                            <a href="/productdetails/sivaji-001/webp"> <img src="/assets/img/sivaji-001-f.webp"
+                                    class="img-fluid" alt=""> </a>
                             <div class="social">
                                 <a href="/"><i class="bi bi-heart"></i></a>
                                 <a class="add-to-cart" href=""><i class="bi bi-cart-plus"></i></a>

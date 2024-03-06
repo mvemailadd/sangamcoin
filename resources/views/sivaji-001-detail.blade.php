@@ -100,7 +100,7 @@
     </div>
     <div class="cta">
         <div class="cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Add to Cart</a>
+            <a class="add-to-cart cta-btn align-middle" href="#">Add to Cart</a>
         </div>
     </div>
 </div>
