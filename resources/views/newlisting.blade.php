@@ -17,7 +17,7 @@
                             <a href="/productdetails/sivaji-001/webp"> <img src="/assets/img/sivaji-001-f.webp"
                                     class="img-fluid" alt=""> </a>
                             <div class="social">
-                                <a href="/"><i class="bi bi-heart"></i></a>
+                                <a href="#"><i class="bi bi-heart"></i></a>
                                 <a class="add-to-cart" href=""><i class="bi bi-cart-plus"></i></a>
                             </div>
                         </div>
@@ -37,7 +37,7 @@
                         <div class="member-img">
                             <img src="/assets/img/aunc-001-f.webp" class="img-fluid" alt="">
                             <div class="social">
-                                <a href=""><i class="bi bi-heart"></i></a>
+                                <a href="#"><i class="bi bi-heart"></i></a>
                                 <a class="add-to-cart" href=""><i class="bi bi-cart-plus"></i></a>
                             </div>
                         </div>
@@ -58,7 +58,7 @@
                         <div class="member-img">
                             <img src="/assets/img/gandhi-001-f.webp" class="img-fluid" alt="">
                             <div class="social">
-                                <a href=""><i class="bi bi-heart"></i></a>
+                                <a href="#"><i class="bi bi-heart"></i></a>
                                 <a class="add-to-cart" href=""><i class="bi bi-cart-plus"></i></a>
                             </div>
                         </div>
@@ -78,7 +78,7 @@
                         <div class="member-img">
                             <img src="/assets/img/food-001-f.webp" class="img-fluid" alt="">
                             <div class="social">
-                                <a href=""><i class="bi bi-heart"></i></a>
+                                <a href="#"><i class="bi bi-heart"></i></a>
                                 <a class="add-to-cart" href=""><i class="bi bi-cart-plus"></i></a>
                             </div>
                         </div>

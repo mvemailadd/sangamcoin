@@ -1,6 +1,6 @@
 <div class="ps-lg-3">
     <h4 class="title text-dark">
-        Dinar - Chandragupta II
+        1 Drachm - Chandragupta II
     </h4>
     <div class="d-flex flex-row my-3">
         <div class="text-warning mb-1 me-2">
@@ -18,17 +18,23 @@
     </div>
 
     <div class="mb-3">
-        <span class="h5">₹8,600.00</span>
+        <span class="h5">₹4,300.00</span>
         <span class="text-muted">only</span>
     </div>
 
-    <p>King, Nimbate, standing facing left, is in salwar and wearing necklace, the king holds a long bow in his left
-        hand and arrow in his right, with the garuda standard showing a snake coiled around garuda’s neck, Brahmi legend
-        "Chandra" below king’s arm and Brahmi legend "Chandra-guptha" at the left field in small characters</p>
+    <h5>Obverse</h5>
+    <p>Head of King Left</p>
 
-    <p>Goddess Lakshmi seated on a lotus in padmasana facing front, holding diadem in her right hand while the left is
-        resting on her thigh, a lotus whose stem rises from under her left arm is seen adjacent to the goddess’s face,
-        tamgha to right, Brahmi legend ("Sri Vikramah")</p>
+    <h5>Reverse</h5>
+    <p>Stylized Garuda standing facing, with wings spread, Sun above. Brahmi Legend Around
+        <b>Lettering:</b> Paramabhāgavata Maharajadhiraja Sri Chandragupta Vikramāditya
+    </p>
+
+    <p>This coin and the next are examples of a rare type with an unusual legend, identifying Chandragupta as belonging
+        to the family (kula) of Sri Gupta. In his article in Numismatic Digest 29-30, Shailendra Bhandare identified the
+        first word in the legend as Sriguptakulālankārasya, but on both these coins it is quite apparent that the last
+        letter is not sya (compare it to the last letter in Vikramānkasya). It looks to me like sva. Whether this was
+        intentional or a spelling error on the part of the die-cutter is unclear. </p>
 
     <div class="row">
         <dt class="col-3">Issuer:</dt>
@@ -38,25 +44,28 @@
         <dd class="col-9">Standard circulation coin</dd>
 
         <dt class="col-3">Years</dt>
-        <dd class="col-9">375-415</dd>
+        <dd class="col-9">375-414</dd>
 
         <dt class="col-3">Currency</dt>
         <dd class="col-9">Drachm (240-550)</dd>
 
+        <dt class="col-3">Composition</dt>
+        <dd class="col-9">Silver</dd>
+
         <dt class="col-3">Weight</dt>
-        <dd class="col-9">8.1 g</dd>
+        <dd class="col-9">2.50 g</dd>
 
         <dt class="col-3">Diameter</dt>
-        <dd class="col-9">18.87 mm</dd>
+        <dd class="col-9">16.00 mm</dd>
 
         <dt class="col-3">Shape</dt>
         <dd class="col-9">Round (irregular)</dd>
 
-        <dt class="col-3">Orientation</dt>
-        <dd class="col-9">Medal alignment ↑↑</dd>
+        <dt class="col-3">Technique</dt>
+        <dd class="col-9">Hammered</dd>
 
         <dt class="col-3">Number</dt>
-        <dd class="col-9">N#191431</dd>
+        <dd class="col-9">N#58165</dd>
 
     </div>
 

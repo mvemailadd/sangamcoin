@@ -14,10 +14,10 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member aos-init aos-animate" data-aos="fade-up">
                         <div class="member-img">
-                            <a href="/productdetails/chandragupta-001/jpg"> <img src="/assets/img/chandragupta-001-f.jpg"
-                                    class="img-fluid" alt=""> </a>
+                            <a href="/productdetails/chandragupta-001/jpg">
+                                <img src="/assets/img/chandragupta-001-f.jpg" class="img-fluid" alt=""> </a>
                             <div class="social">
-                                <a href="/"><i class="bi bi-heart"></i></a>
+                                <a href="#"><i class="bi bi-heart"></i></a>
                                 <a class="add-to-cart" href=""><i class="bi bi-cart-plus"></i></a>
                             </div>
                         </div>
@@ -35,9 +35,10 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="member-img">
-                            <img src="/assets/img/stater-001-f.jpg" class="img-fluid" alt="">
+                            <a href="/productdetails/stater-001/jpg">
+                                <img src="/assets/img/stater-001-f.jpg" class="img-fluid" alt=""></a>
                             <div class="social">
-                                <a href=""><i class="bi bi-heart"></i></a>
+                                <a href="#"><i class="bi bi-heart"></i></a>
                                 <a class="add-to-cart" href=""><i class="bi bi-cart-plus"></i></a>
                             </div>
                         </div>
@@ -55,9 +56,10 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
                         <div class="member-img">
-                            <img src="/assets/img/drachm-001-f.jpg" class="img-fluid" alt="">
+                            <a href="/productdetails/drachm-001/jpg">
+                                <img src="/assets/img/drachm-001-f.jpg" class="img-fluid" alt=""></a>
                             <div class="social">
-                                <a href=""><i class="bi bi-heart"></i></a>
+                                <a href="#"><i class="bi bi-heart"></i></a>
                                 <a class="add-to-cart" href=""><i class="bi bi-cart-plus"></i></a>
                             </div>
                         </div>
@@ -75,9 +77,10 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
                         <div class="member-img">
-                            <img src="/assets/img/drachm-002-f.jpg" class="img-fluid" alt="">
+                            <a href="/productdetails/drachm-002/jpg">
+                                <img src="/assets/img/drachm-002-f.jpg" class="img-fluid" alt=""></a>
                             <div class="social">
-                                <a href=""><i class="bi bi-heart"></i></a>
+                                <a href="#"><i class="bi bi-heart"></i></a>
                                 <a class="add-to-cart" href=""><i class="bi bi-cart-plus"></i></a>
                             </div>
                         </div>
