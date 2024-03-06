@@ -14,8 +14,8 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member aos-init aos-animate" data-aos="fade-up">
                         <div class="member-img">
-                            <a href="/productdetails/sivaji-001/webp"> <img src="/assets/img/sivaji-001-f.webp"
-                                    class="img-fluid" alt=""> </a>
+                            <a href="/productdetails/sivaji-001/webp">
+                                <img src="/assets/img/sivaji-001-f.webp" class="img-fluid" alt=""> </a>
                             <div class="social">
                                 <a href="#"><i class="bi bi-heart"></i></a>
                                 <a class="add-to-cart" href=""><i class="bi bi-cart-plus"></i></a>
@@ -35,7 +35,8 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="member-img">
-                            <img src="/assets/img/aunc-001-f.webp" class="img-fluid" alt="">
+                            <a href="/productdetails/aunc-001/webp">
+                                <img src="/assets/img/aunc-001-f.webp" class="img-fluid" alt=""></a>
                             <div class="social">
                                 <a href="#"><i class="bi bi-heart"></i></a>
                                 <a class="add-to-cart" href=""><i class="bi bi-cart-plus"></i></a>
@@ -56,7 +57,8 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
                         <div class="member-img">
-                            <img src="/assets/img/gandhi-001-f.webp" class="img-fluid" alt="">
+                            <a href="/productdetails/gandhi-001/webp">
+                                <img src="/assets/img/gandhi-001-f.webp" class="img-fluid" alt=""></a>
                             <div class="social">
                                 <a href="#"><i class="bi bi-heart"></i></a>
                                 <a class="add-to-cart" href=""><i class="bi bi-cart-plus"></i></a>
@@ -76,7 +78,8 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
                         <div class="member-img">
-                            <img src="/assets/img/food-001-f.webp" class="img-fluid" alt="">
+                            <a href="/productdetails/food-001/webp">
+                                <img src="/assets/img/food-001-f.webp" class="img-fluid" alt=""></a>
                             <div class="social">
                                 <a href="#"><i class="bi bi-heart"></i></a>
                                 <a class="add-to-cart" href=""><i class="bi bi-cart-plus"></i></a>

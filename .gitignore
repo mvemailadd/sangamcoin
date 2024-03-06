@@ -13,3 +13,6 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+app/Http/Controllers/EmailController.php
+app/Mail/ContactMail.php
+resources/views/emails/contactemail.blade.php
