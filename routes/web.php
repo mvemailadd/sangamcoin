@@ -25,8 +25,8 @@ Route::get('contact', function () {
     return view('contact');
 });
 
-Route::get('productdetails/{productid}', function ($productid) {
-    return view('productdetails', compact('productid'));
+Route::get('productdetails/{productid}/{ext}', function ($productid, $ext) {
+    return view('productdetails', compact('productid', 'ext'));
 });
 
 Route::get('newlisting', function () {
